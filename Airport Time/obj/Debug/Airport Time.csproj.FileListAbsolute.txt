@@ -1,0 +1,10 @@
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\bin\Debug\Airport Time.exe.config
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\bin\Debug\Airport Time.exe
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\bin\Debug\Airport Time.pdb
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport Time.csprojResolveAssemblyReference.cache
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport_Time.Form1.resources
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport_Time.Properties.Resources.resources
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport Time.csproj.GenerateResource.Cache
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport Time.exe
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport Time.pdb
+c:\users\hp-adm\documents\visual studio 2015\Projects\Airport Time\Airport Time\obj\Debug\Airport_Time.Form2.resources
