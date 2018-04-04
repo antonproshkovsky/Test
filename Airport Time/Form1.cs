@@ -35,6 +35,7 @@ namespace Airport_Time
             {
                 Form2 form2 = new Form2();
                 this.Hide();
+		Console.WriteLine('fasdsa');
                 form2.Show();
             }
             else
